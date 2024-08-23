@@ -2,7 +2,8 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">My name is Nestor and I'm a Computer Science student from Brazil. Here's some info about me!<br><br>⚡ Work experience: • Unfortunately, I do not have the current one at the moment. :(<br><br>📚 Education: • Bachelor of Science, Computer Science (2023 - 2027) • High School, (2020 - 2022)<br><br>🌱 Interests: • Web Development • Cybersecurity • Music • Cars • Films<br><br>📞 Contact: 💬 Reach me by email or LinkedIn! <a href="mailto:nestorsondahl@gmail.com">nestorsondahl@gmail.com</a> | <a href="https://www.linkedin.com/in/nestor-garraza-sondahl-404a96274/">LinkedIn</a> 📫 Visit my website: (in progress! ;)</p>
+<p align="left">My name is Nestor and I'm a Computer Science student from Brazil. Here's some info about me!<br><br>⚡ Work experience: • Unfortunately, I do not have the current one at the moment. :(<br><br>📚 Education: • Bachelor of Science, Computer Science (2023 - 2027) 
+  • High School, (2020 - 2022)<br><br>🌱 Interests: • Web Development • Cybersecurity • Music • Cars • Films<br><br>📞 Contact: 💬 Reach me by email or LinkedIn! <a href="mailto:nestorsondahl@gmail.com">nestorsondahl@gmail.com</a> | <a href="https://www.linkedin.com/in/nestor-garraza-sondahl-404a96274/">LinkedIn</a> 📫 Visit my website: (in progress! ;)</p>
 
 <h2 align="left">I code with</h2>
 
